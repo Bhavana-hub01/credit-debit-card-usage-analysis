@@ -7,20 +7,31 @@ The dashboard is designed to demonstrate the skills of a Data Analyst / Business
 **Tools & Technologies**
 
 Power BI → Dashboard creation, KPIs, and business insights
+
 Excel → Data cleaning and preparation
+
 Python → Data wrangling, validation, and preprocessing
+
 SQL → Querying and structuring datasets
 
 **Key KPIs**
+
 Total Cards Issued (Credit & Debit)
+ 
 Active Cards (%)
+
 Spend per Active Card
+
 Cash Withdrawal % vs. Total Spend
+
 Channel-Wise Usage (POS, E-commerce, ATM)
+
 
 **File Structure**
 
 credit_debit analysis.pbix → Power BI dashboard file
+
 README.md → Project documentation (this file)
+
 data/ → Source datasets (RBI card transactions)
 
